@@ -13,7 +13,7 @@
 /*asi se coloca un 
 comentario en
 varios parrafos
-/*
+*/
 
 //------------------------------------------------------------------
 //ejercicio numero.3 "Crea una variable (y una constante si el lenguaje lo soporta)."
@@ -27,7 +27,7 @@ const constante = "mundo"; //asi se almacena una cosntante
 que puede estar entre comillas simples, dobles (estas mismas son esencialmente lo mismo) y 
 backticks (acento grave), estas son diferentes y nos permiten agregar expresiones dentro de string como ${-} y en multiples lineas.
 a continuacion ejemplos de estos
-/*
+*/
 
 //---------------------------------------------------------------------------------------------------------------------------------
 let simple ='comillas simple';
